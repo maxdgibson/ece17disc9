@@ -21,7 +21,7 @@
 
 int main() {
 
-    auto tree = BinarySearchTree();
+    auto tree = BinaryTree();
 
     tree.insertNode(5);
     tree.insertNode(10);
